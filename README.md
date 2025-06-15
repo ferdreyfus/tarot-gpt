@@ -14,8 +14,8 @@ You can interact with the program directly on WhatsApp.
 Send message 1DULIU to +1 (415) 728-3856 to see it run.
 
 
+## Tech
+Python,
+used libraries: AI, random, time.
 
-
-
-
-
+AI library meant to be ran from the CIP online IDE at https://codeinplace.stanford.edu/
